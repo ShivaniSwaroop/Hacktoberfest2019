@@ -9,7 +9,7 @@
 
 # What is Hacktoberfest ?
 
-Hacktoberfest is a month-long celebration of open source software in partnership with Github .
+Hacktoberfest is a month-long celebration of open source software in partnership with Github . and free t shirts are given for awareness.
 
 # Hacktoberfest-2019 
 
